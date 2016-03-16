@@ -14,3 +14,6 @@ sudo pip install concurrencytest<br>
 sudo pip install testtools <br>
 sudo pip install python-subunit
 
+TO do:
+1. Add HTML Report generation
+2. Time for each test case execution
